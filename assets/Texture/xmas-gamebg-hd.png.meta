@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "ae2e2127-6f59-42a8-827a-0a1b14311183",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "xmas-gamebg-hd": {
+      "ver": "1.0.4",
+      "uuid": "d89fdd2a-bf9c-47f1-b158-9406167d5724",
+      "rawTextureUuid": "ae2e2127-6f59-42a8-827a-0a1b14311183",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 720,
+      "height": 1152,
+      "rawWidth": 720,
+      "rawHeight": 1152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,2 +1,2 @@
-# hrdGame
- 华容道游戏
+# hello-world
+Hello world new project template.

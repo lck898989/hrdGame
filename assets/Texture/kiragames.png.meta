@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "01a2964f-3dc1-48a7-a23e-cfed5aea2085",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "kiragames": {
+      "ver": "1.0.4",
+      "uuid": "de21e1d2-6f03-4fa4-a5ca-39f3502670fa",
+      "rawTextureUuid": "01a2964f-3dc1-48a7-a23e-cfed5aea2085",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 79,
+      "rawWidth": 170,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
